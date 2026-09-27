@@ -17,7 +17,21 @@
 - STM32CubeProgrammer
 
 ### 今天完成
-所有软件、STM32环境变量安装完成。
+
+完成：
+- Windows 11开发环境确认
+- Keil安装
+- STM32CubeMX安装
+- STM32CubeProgrammer安装
+- ST-Link驱动安装
+- Git安装
+- VS Code安装
+
+当前STM32：
+- STM32F103C8T6
+
+当前项目目标：
+- 2026-10-15前让小车真正运行
 
 ### 遇到的问题
 第一次配置GitHub,没有准确找到如何创建二级文件夹。
